@@ -1,6 +1,6 @@
 # random-cs-go-crosshair-generator
 
-Just a fun small project that I've made, it generates a .cfg file that can be run in the cs:go console.
+Just a fun small project that I've made, it generates a .cfg file that can be executed in cs:go.
 
 ## How to use it
 
@@ -10,3 +10,9 @@ and click enter.
 
 Then it will ask you for the reroll time (in seconds), then click enter and you're done.
 The code is now running, to stop the code, just close the cmd window where it is running.
+
+## Inside CS:GO
+
+Open the console and write "exec randcrosshair.cfg"
+
+Done!
