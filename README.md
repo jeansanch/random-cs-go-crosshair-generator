@@ -10,3 +10,7 @@ and click enter.
 
 Then it will ask you for the reroll time (in seconds), then click enter and you're done.
 The code is now running, to stop the code, just close the cmd window where it is running.
+
+## Inside CS:GO
+
+Open the console and write "exec randcrosshair.cfg"
