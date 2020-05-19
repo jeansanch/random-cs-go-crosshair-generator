@@ -14,3 +14,5 @@ The code is now running, to stop the code, just close the cmd window where it is
 ## Inside CS:GO
 
 Open the console and write "exec randcrosshair.cfg"
+
+Done!
